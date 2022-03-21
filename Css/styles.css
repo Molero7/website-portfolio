@@ -178,7 +178,7 @@ input {
 
 .page-header__item {
 	flex: 0 1 200px;
-	height: 200;
+	height: 200px;
 }
 
 .page-header__item:last-child {
