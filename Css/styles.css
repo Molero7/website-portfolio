@@ -154,13 +154,16 @@ input {
 	border-radius: 50%;
 }
 
-.page-footer {
-	clear: both;
+.page-footer{
+	/* clear: both;
 	display: flex;
 	flex-direction: column;
 	align-content: center;
 	align-items: center;
-	justify-content: center;
+	justify-content: center; */
+	position: fixed;
+	bottom: 0;
+	left: 50%;
 }
 
 .profile {
@@ -357,3 +360,9 @@ input {
  	width: 300px;
  	height: auto;
  }
+ .contactContainer {
+	display: flex;
+	flex-direction: row;
+	width: 100%;
+	flex: 1;
+		margin: 0 0 0 15rem;}
