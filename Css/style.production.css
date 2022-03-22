@@ -152,7 +152,7 @@ input {
 .profile__portrait {
 	float: left;
 	width: 250px;
-	height:  auto;
+	height:  250px;
 	margin-right:  40px;
 	border-radius: 50%;
 }
