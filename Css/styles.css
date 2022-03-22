@@ -361,10 +361,10 @@ input {
  	height: auto;
  }
  .contactContainer {
-	display:inline-flex;
+	display:flex;
 	flex-direction: row;
 	width: 100%;
 	flex: 1;
 		margin: 0 0 0 15rem;
-	align-content: stretch;
-justify-content: space-evenly;}
+
+	}
