@@ -1,0 +1,21 @@
+Linters Used in Visual studio:
+
+
+Code Runner
+Css Lint
+Git Graph
+Gitflow
+GitLens
+Linter
+Live Server
+W3C Web Validator
+
+CROSS-BROWSER TESTING:
+
+---working on---
+
+IE Edge, Safari, Firefox, Opera, Google Chrome.
+
+Ad responsive for all devices.
+
+No issue found.
